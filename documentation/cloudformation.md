@@ -21,6 +21,8 @@
 
 # Available Templates
 
+**Disclaimer:** The templates are provided as-is without any warranties. Users are responsible for understanding AWS costs, security implications, and maintaining their deployments. Always review and test the template before deploying in a production environment.
+
 The deployment offers four CloudFormation template variants to match your needs:
 
 1. **cloudformation-template.yml (single GPU)**
@@ -48,12 +50,6 @@ The deployment offers four CloudFormation template variants to match your needs:
    - Development repository with latest features
 
 # Deployment Guide
-
-This CloudFormation template deploys Privacy Meter as an AWS SageMaker notebook instance. Key features include:
-
-[Previous features list remains the same...]
-
-**Disclaimer:** This template is provided as-is without any warranties. Users are responsible for understanding AWS costs, security implications, and maintaining their deployments. Always review and test the template before deploying in a production environment.
 
 ### Quick Start (note: deployment may sometimes take a few minutes or more)
 
